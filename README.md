@@ -34,7 +34,7 @@
   <p align="center">
     Project carried out during my high school studies!
     <br />
-    <a href="https://github.com/soonnova/Study_project/docs"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Soonnova/Study_Project/docs.md"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">View Demo</a>
