@@ -74,7 +74,7 @@
 
 TThis is a post about work carried out at school, a two-year project, there are 3 of us preparing it to present it orally for 15 minutes each at the end of the school year.
 
-Use the `Docs.md` to get started.
+Use the `docs.md` to get started.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -85,8 +85,7 @@ Use the `Docs.md` to get started.
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
 
-* [![React][React.js]][React-url]
-* [![Html][Html.html]][Html-url]
+[![corona-runner](https://zouariste.github.io/corona-runner)]
 
 
 
