@@ -85,8 +85,7 @@ Use the `docs.md` to get started.
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
 
-[![corona-runner](https://zouariste.github.io/corona-runner)]
-
+- Soon..
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
