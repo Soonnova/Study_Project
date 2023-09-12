@@ -20,8 +20,6 @@
 -->
 [![Issues][issues-shield]][issues-url]
 
-
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
@@ -66,7 +64,8 @@
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
-
+<br></br>
+<br></br>
 
 
 <!-- ABOUT THE PROJECT -->
