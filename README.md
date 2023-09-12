@@ -70,7 +70,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[screenshot]](https://example.com)
 
 TThis is a post about work carried out at school, a two-year project, there are 3 of us preparing it to present it orally for 15 minutes each at the end of the school year.
 
@@ -121,7 +121,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 ## Contact
 
-Soon - Discord : soon59
+- Discord : soon59
 - Discord : Other participant
 - Discord : Other participant
 
