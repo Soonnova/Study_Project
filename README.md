@@ -70,7 +70,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[screenshot]](https://example.com)
+[<img alt="alt_text" width="100px" src="images/screenshot.png" />](https://www.google.com/)
 
 TThis is a post about work carried out at school, a two-year project, there are 3 of us preparing it to present it orally for 15 minutes each at the end of the school year.
 
