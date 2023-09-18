@@ -5,9 +5,10 @@
 - [x] Choix du projet
     - [x] Projet choisi : Site web
     - [x] Discussion sur quel type de site
--
--
--
+    - [x] Choix : Site réservation hôtel 
+
+
+
 - [ ] Début du dévelopement 
     - [ ] Partage des tâches
 
