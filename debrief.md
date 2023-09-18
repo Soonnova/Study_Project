@@ -5,9 +5,9 @@
 - [x] Choix du projet
     - [x] Projet choisi : Site web
     - [x] Discussion sur quel type de site
-
-
- 
+-
+-
+-
 - [ ] Début du dévelopement 
     - [ ] Partage des tâches
 
